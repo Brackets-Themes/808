@@ -1,0 +1,20 @@
+{
+    "title": "808",
+    "name": "808",
+    "description": "808 Theme for Brackets.",
+    "version": "0.0.1",
+    "author": "larz0 (https://github.com/larz0)",
+    "homepage": "https://github.com/Brackets-Themes/808",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/808.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "808.css",
+        "dark": true
+    }
+}
