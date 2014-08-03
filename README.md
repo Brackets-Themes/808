@@ -1,7 +1,7 @@
 808 Theme for Brackets
 ============================
 
-"Nothing sounds quite like an 808."
+Inspired by Roland TR-808. A Brackets original.
 
 ## HTML
 ![HTML Screenshot](https://github.com/Brackets-Themes/808/blob/master/screenshots/html.png)
